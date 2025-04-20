@@ -30,12 +30,9 @@
  
 
  ### 1- منصة مهارة-تك :  https://maharatech.gov.eg/?lang=ar 
- ### 2- مسارات مهارة تك الوظيفية : 
-### https://maharatech.gov.eg/mod/page/view.php?id=16670
- ### 3- أكاديمية الذكاء الاصطناعي :  
-### https://maharatech.gov.eg/mod/page/view.php?id=14162
- ### 4- أكاديمية الأمن السيبراني  :
-### https://maharatech.gov.eg/mod/page/view.php?id=14161
+ ### 2- مسارات مهارة تك الوظيفية : https://maharatech.gov.eg/mod/page/view.php?id=16670
+ ### 3- أكاديمية الذكاء الاصطناعي :  https://maharatech.gov.eg/mod/page/view.php?id=14162
+ ### 4- أكاديمية الأمن السيبراني  : https://maharatech.gov.eg/mod/page/view.php?id=14161
 
 
 
@@ -64,10 +61,8 @@
  ### برمجة - فرنت أند - باك إند - بايثون - ووردبريس
  
 
- ### 1- أكاديمية الزيرو :
- ### https://elzero.org/
- ### 2- قناة يوتيوب الزيرو :
- ### https://www.youtube.com/@ElzeroWebSchool
+ ### 1- أكاديمية الزيرو :  https://elzero.org
+ ### 2- قناة يوتيوب الزيرو : https://www.youtube.com/@ElzeroWebSchool
 
 
 
@@ -78,10 +73,8 @@
  ### برمجة  - بايثون - علم وتحليل البيانات - تعلم الآلة والتعلم العميق
  
 
- ### 1- فن تعليم الآلة - م.هشام عاصم :
- ### https://www.youtube.com/@HeshamAsem/playlists
- ### 2- دورات علم وتحليل البيانات - م.مصطفي عثمان :
- ### https://www.youtube.com/c/MustafaOthman/playlists?view=50&sort=dd&shelf_id=2
+ ### 1- فن تعليم الآلة - م.هشام عاصم : https://www.youtube.com/@HeshamAsem/playlists
+ ### 2- دورات علم وتحليل البيانات - م.مصطفي عثمان : https://www.youtube.com/c/MustafaOthman/playlists?view=50&sort=dd&shelf_id=2
 
 
 
@@ -92,10 +85,8 @@
  ### برمجة  - بايثون - علم وتحليل البيانات - تعلم الآلة والتعلم العميق
  
 
- ### 1- علوم البيانات والذكاء الاصطناعي - د.معتز سعد  :
- ### https://www.youtube.com/@MotazSaad
- ### 2- أكاديمية الحسيني - د.مصطفي الحسيني :
- ### https://www.youtube.com/@ElhosseiniAcademy
+ ### 1- علوم البيانات والذكاء الاصطناعي - د.معتز سعد : https://www.youtube.com/@MotazSaad
+ ### 2- أكاديمية الحسيني - د.مصطفي الحسيني :  https://www.youtube.com/@ElhosseiniAcademy
 
 
 

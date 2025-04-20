@@ -80,7 +80,7 @@
  ### 5- علوم البيانات والذكاء الاصطناعي - م.حسام حوراني : https://www.youtube.com/@hussamhourani2633/playlists
  ### 6- علوم البيانات والاحصاء - د.أحمد العم : https://www.youtube.com/@ahmadalamm-datascientist-1669/playlists
 ### 7- علوم البيانات وتعلم الآلة - م.أحمد مصطفي : https://www.youtube.com/@zero-grad/playlists
-### 8- علوم البيانات وتعلم الآلة - EpsilonAI : https://www.youtube.com/@EpsilonAIeg
+### 8- علوم البيانات وتعلم الآلة - إبسلون EpsilonAI : https://www.youtube.com/@EpsilonAIeg
 
 
 

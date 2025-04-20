@@ -95,6 +95,7 @@
 
  ### 1- م.محمد زنون - Zanoon Lab : https://www.youtube.com/@ZanoonLab/playlists
  ### 2- تعلّم برنامج باور بي أي من الألف إلى الياء - م.فؤاد زوادي :  https://www.youtube.com/@fzawadi/playlists
+ ### 3- تعليم باور بي أي من الصفر للاحتراف - م.مودة الخولي : https://www.youtube.com/@Data_Zone/playlists
 
 
 

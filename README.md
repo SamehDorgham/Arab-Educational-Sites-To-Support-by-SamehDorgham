@@ -16,15 +16,11 @@
  
 
  ### 1- بايثون - موقع هرمش
-
 ### https://harmash.com/tutorials/python/overview
-
  ### 2- بايثونات
 ### https://www.pythonat.com
-
  ### 3- الذكاء الاصطناعي بالعربي
 ### https://aiinarabic.com
-
  ### 4- التعلم العميق بالعربي
 ### https://dlarabic.com
 

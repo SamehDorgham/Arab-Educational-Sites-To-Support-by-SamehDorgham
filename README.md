@@ -98,6 +98,8 @@
  ### 3- تعليم باور بي أي من الصفر للاحتراف - م.مودة الخولي : https://www.youtube.com/@Data_Zone/playlists
  ### 4- كورس تحليل البيانات ب باور بي أي - Power BI Course - م.محمد العسال : https://www.youtube.com/playlist?list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3
  ### 5- دورة باور بي اي Power BI - م.ربيع هديب : https://www.youtube.com/playlist?list=PLnTjxvkcssL5gyWh5JD3kBl_16A6Q4Fec
+ ### 6- دورة باور بي اي Power BI - م.المنذر سفان : https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw
+ ### 7- دورة تعليم لغة الداكس - DAX Language - باور بي اي Power BI - م.المنذر سفان : https://www.youtube.com/playlist?list=PLof3yw6ZFPFh6VZ7wlSH4D10kjy4Dteoc
 
 
 

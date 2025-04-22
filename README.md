@@ -108,7 +108,7 @@
  
 
  #### 1- احترف باور بي أي - م.محمد زنون - Zanoon Lab : https://www.youtube.com/@ZanoonLab/playlists
- #### 2- تعلّم برنامج باور بي أي من الألف إلى الياء - م.فؤاد زوادي :  https://www.youtube.com/@fzawadi/playlists
+ ##### 2- تعلّم برنامج باور بي أي من الألف إلى الياء - م.فؤاد زوادي :  https://www.youtube.com/@fzawadi/playlists
  #### 3- تعليم باور بي أي من الصفر للاحتراف - م.مودة الخولي : https://www.youtube.com/@Data_Zone/playlists
  ##### 4- كورس تحليل البيانات ب باور بي أي - Power BI Course - م.محمد العسال : https://www.youtube.com/playlist?list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3
  ##### 5- دورة باور بي اي Power BI - م.ربيع هديب : https://www.youtube.com/playlist?list=PLnTjxvkcssL5gyWh5JD3kBl_16A6Q4Fec

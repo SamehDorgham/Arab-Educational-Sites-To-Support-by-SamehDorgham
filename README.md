@@ -15,10 +15,14 @@
  #### لغة بايثون - علم وتحليل البيانات - تعلم الآلة والتعلم العميق
  
 
- #### 1- بايثون - موقع هرمش :  https://harmash.com/tutorials/python/overview
- #### 2- بايثونات :  https://www.pythonat.com
- #### 3- الذكاء الاصطناعي بالعربي :  https://aiinarabic.com
- #### 4- التعلم العميق بالعربي :  https://dlarabic.com
+ #### 1- بايثون - موقع هرمش :
+ #### https://harmash.com/tutorials/python/overview
+ #### 2- بايثونات :
+ #### https://www.pythonat.com
+ #### 3- الذكاء الاصطناعي بالعربي :
+ #### https://aiinarabic.com
+ #### 4- التعلم العميق بالعربي :
+ #### https://dlarabic.com
 
 
 
@@ -29,10 +33,14 @@
  #### برمجة - فرنت أند - باك إند - الذكاء الاصطناعي - تعلم الألة والتعلم العميق - الأمن السيبراني
  
 
- #### 1- منصة مهارة-تك :  https://maharatech.gov.eg/?lang=ar 
- #### 2- مسارات مهارة تك الوظيفية : https://maharatech.gov.eg/mod/page/view.php?id=16670
- #### 3- أكاديمية الذكاء الاصطناعي :  https://maharatech.gov.eg/mod/page/view.php?id=14162
- #### 4- أكاديمية الأمن السيبراني  : https://maharatech.gov.eg/mod/page/view.php?id=14161
+ #### 1- منصة مهارة-تك : 
+ #### https://maharatech.gov.eg/?lang=ar 
+ #### 2- مسارات مهارة تك الوظيفية :
+ #### https://maharatech.gov.eg/mod/page/view.php?id=16670
+ #### 3- أكاديمية الذكاء الاصطناعي :
+ #### https://maharatech.gov.eg/mod/page/view.php?id=14162
+ #### 4- أكاديمية الأمن السيبراني  :
+ #### https://maharatech.gov.eg/mod/page/view.php?id=14161
 
 
 
@@ -47,7 +55,8 @@
  #### برمجة - فرنت أند - باك إند - الذكاء الاصطناعي - تعلم الألة والتعلم العميق - الأمن السيبراني
  
 
- #### منصة سطر :  https://satr.codes 
+ #### منصة سطر :
+ #### https://satr.codes 
 
 
 
@@ -61,7 +70,8 @@
  #### برمجة - فرنت أند - باك إند - الذكاء الاصطناعي - تعلم الألة والتعلم العميق - قواعد بيانات - هندسة البيانات - AWS
  
 
- #### منصة منارة :  https://app.manara.tech/ 
+ #### منصة منارة :
+ #### https://app.manara.tech/ 
 
 
 
@@ -75,8 +85,10 @@
  #### برمجة - فرنت أند - باك إند - بايثون - ووردبريس
  
 
- #### 1- أكاديمية الزيرو :  https://elzero.org
- #### 2- قناة يوتيوب الزيرو : https://www.youtube.com/@ElzeroWebSchool
+ #### 1- أكاديمية الزيرو :
+ #### https://elzero.org
+ #### 2- قناة يوتيوب الزيرو :
+ #### https://www.youtube.com/@ElzeroWebSchool
 
 
 
@@ -169,8 +181,10 @@
 ### [10] بدائل عربية رائعة يجب دعمها
  #### بدائل عربية رائعة يجب دعمها 
 
- #### 1- منصة قبيلة - { ... qabilah ... } : https://qabilah.com
- #### 2- منصة في كونكت - { ... vconnct ... } : https://vconnct.me/ar/home
+ #### 1- منصة قبيلة - { ... qabilah ... } : 
+ #### https://qabilah.com
+ #### 2- منصة في كونكت - { ... vconnct ... } :
+ #### https://vconnct.me/ar/home
 
 
 

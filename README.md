@@ -117,7 +117,7 @@
  #### https://www.youtube.com/@zero-grad/playlists
 #### 9- علوم البيانات وتعلم الآلة - إبسلون EpsilonAI : 
  #### https://www.youtube.com/@EpsilonAIeg 
-#### 10- تعلم الآلة والتعلم العميق - ورؤية الحاسوب - د.مصطفي سعد إبراهيم : 
+#### 10- تعلم الآلة والتعلم العميق - ورؤية الحاسوب - د.مصطفي سعد إبراهيم - Arabic Competitive Programming  : 
  #### https://www.youtube.com/@ArabicCompetitiveProgramming
 #### 11- م.وليد محمد - ZAnalytics :
  #### https://www.youtube.com/@zanalytics4dataanalysis/playlists

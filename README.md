@@ -101,7 +101,7 @@
 
  #### 1- فن تعليم الآلة - م.هشام عاصم :
  #### https://www.youtube.com/@HeshamAsem/playlists
- ##### 2- دورات علم وتحليل البيانات - م.مصطفي عثمان :
+ #### 2- دورات علم وتحليل البيانات - م.مصطفي عثمان :
  #### https://www.youtube.com/c/MustafaOthman/playlists?view=50&sort=dd&shelf_id=2
  #### 3- علوم البيانات والذكاء الاصطناعي - د.معتز سعد : 
  #### https://www.youtube.com/@MotazSaad

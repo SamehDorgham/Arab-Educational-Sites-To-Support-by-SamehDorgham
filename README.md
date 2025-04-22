@@ -107,17 +107,19 @@
  #### https://www.youtube.com/@MotazSaad
  #### 4- أكاديمية الحسيني - د.مصطفي الحسيني :
  #### https://www.youtube.com/@ElhosseiniAcademy 
- #### 5- علوم البيانات والذكاء الاصطناعي - م.حسام حوراني :
+ #### 5- قناة الذكاء الاصطناعي وتعلم الآلة والتعلم العميق ورؤية الحاسوب - م.أحمد إبراهيم :
+ #### https://www.youtube.com/@ai1998/playlists 
+ #### 6- علوم البيانات والذكاء الاصطناعي - م.حسام حوراني :
  #### https://www.youtube.com/@hussamhourani2633/playlists
- #### 6- علوم البيانات والاحصاء - د.أحمد العم :
+ #### 7- علوم البيانات والاحصاء - د.أحمد العم :
  #### https://www.youtube.com/@ahmadalamm-datascientist-1669/playlists
-#### 7- علوم البيانات وتعلم الآلة - م.أحمد مصطفي :
+#### 8- علوم البيانات وتعلم الآلة - م.أحمد مصطفي :
  #### https://www.youtube.com/@zero-grad/playlists
-#### 8- علوم البيانات وتعلم الآلة - إبسلون EpsilonAI : 
+#### 9- علوم البيانات وتعلم الآلة - إبسلون EpsilonAI : 
  #### https://www.youtube.com/@EpsilonAIeg 
-#### 9- م.وليد محمد - ZAnalytics :
+#### 10- م.وليد محمد - ZAnalytics :
  #### https://www.youtube.com/@zanalytics4dataanalysis/playlists
-#### 10- نادي تحليل البيانات - DA Club - م.أحمد عماد صالح :
+#### 11- نادي تحليل البيانات - DA Club - م.أحمد عماد صالح :
  #### https://www.youtube.com/@datasclub/playlists
 
 

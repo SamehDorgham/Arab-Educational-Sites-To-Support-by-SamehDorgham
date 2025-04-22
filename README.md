@@ -110,13 +110,18 @@
  #### 1- احترف باور بي أي - م.محمد زنون - Zanoon Lab : https://www.youtube.com/@ZanoonLab/playlists
  ##### 2- تعلّم برنامج باور بي أي من الألف إلى الياء - م.فؤاد زوادي :  https://www.youtube.com/@fzawadi/playlists
  #### 3- تعليم باور بي أي من الصفر للاحتراف - م.مودة الخولي : https://www.youtube.com/@Data_Zone/playlists
- ##### 4- كورس تحليل البيانات ب باور بي أي - Power BI Course - م.محمد العسال : https://www.youtube.com/playlist?list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3
+ ##### 4- كورس تحليل البيانات ب باور بي أي - Power BI Course - م.محمد العسال :
+ #### https://www.youtube.com/playlist?list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3
  ##### 5- دورة باور بي اي Power BI - م.ربيع هديب : https://www.youtube.com/playlist?list=PLnTjxvkcssL5gyWh5JD3kBl_16A6Q4Fec
  ##### 6- دورة باور بي اي Power BI - م.المنذر سفان : https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw
- ##### 7- دورة باور بي اي Power BI - م.المنذر سفان  - دورة تعليم لغة الداكس - DAX Language -  : https://www.youtube.com/playlist?list=PLof3yw6ZFPFh6VZ7wlSH4D10kjy4Dteoc
- ##### 8- باور بي اي - م.عصام الصياد - Microsoft PowerBI | Dashboards & Reports : https://www.youtube.com/playlist?list=PLkYJ59mAhUsNtiTCVUt7XzuRlsXH_wTiL
- ##### 9- باور بي اي - م.عصام الصياد - Advanced DAX : https://www.youtube.com/watch?v=dvSqIwNyYg0&list=PLkYJ59mAhUsOAijmZrH46EF_I99yadu9P
- ##### 10- باور بي اي - م.عصام الصياد - Power Query : https://www.youtube.com/playlist?list=PLkYJ59mAhUsN_CvKUvtKHKvqMYs7tKpvB
+ ##### 7- دورة باور بي اي Power BI - م.المنذر سفان  - دورة تعليم لغة الداكس - DAX Language -  :
+ #### https://www.youtube.com/playlist?list=PLof3yw6ZFPFh6VZ7wlSH4D10kjy4Dteoc
+ ##### 8- باور بي اي - م.عصام الصياد - Microsoft PowerBI | Dashboards & Reports :
+ #### https://www.youtube.com/playlist?list=PLkYJ59mAhUsNtiTCVUt7XzuRlsXH_wTiL
+ ##### 9- باور بي اي - م.عصام الصياد - Advanced DAX :
+ #### https://www.youtube.com/watch?v=dvSqIwNyYg0&list=PLkYJ59mAhUsOAijmZrH46EF_I99yadu9P
+ ##### 10- باور بي اي - م.عصام الصياد - Power Query :
+ #### https://www.youtube.com/playlist?list=PLkYJ59mAhUsN_CvKUvtKHKvqMYs7tKpvB
 
 
 

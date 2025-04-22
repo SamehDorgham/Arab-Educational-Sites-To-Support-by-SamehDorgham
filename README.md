@@ -119,7 +119,7 @@
  #### https://www.youtube.com/playlist?list=PLnTjxvkcssL5gyWh5JD3kBl_16A6Q4Fec
  #### 6- دورة باور بي اي Power BI - م.المنذر سفان :
  #### https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw
- #### 7- دورة باور بي اي Power BI - م.المنذر سفان  - دورة تعليم لغة الداكس - DAX Language -  :
+ #### 7- دورة باور بي اي Power BI - دورة تعليم لغة الداكس - DAX Language - م.المنذر سفان  :
  #### https://www.youtube.com/playlist?list=PLof3yw6ZFPFh6VZ7wlSH4D10kjy4Dteoc
  #### 8- باور بي اي - م.عصام الصياد - Microsoft PowerBI | Dashboards & Reports :
  #### https://www.youtube.com/playlist?list=PLkYJ59mAhUsNtiTCVUt7XzuRlsXH_wTiL

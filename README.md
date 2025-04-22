@@ -87,9 +87,9 @@
  ### برمجة  - بايثون - علم وتحليل البيانات - تعلم الآلة والتعلم العميق
  
 
- #### 1- فن تعليم الآلة - م.هشام عاصم :
-#### https://www.youtube.com/@HeshamAsem/playlists
- #### 2- دورات علم وتحليل البيانات - م.مصطفي عثمان : https://www.youtube.com/c/MustafaOthman/playlists?view=50&sort=dd&shelf_id=2
+ #### 1- فن تعليم الآلة - م.هشام عاصم : https://www.youtube.com/@HeshamAsem/playlists
+ #### 2- دورات علم وتحليل البيانات - م.مصطفي عثمان :
+#### https://www.youtube.com/c/MustafaOthman/playlists?view=50&sort=dd&shelf_id=2
  #### 3- علوم البيانات والذكاء الاصطناعي - د.معتز سعد : https://www.youtube.com/@MotazSaad
  #### 4- أكاديمية الحسيني - د.مصطفي الحسيني :  https://www.youtube.com/@ElhosseiniAcademy 
  #### 5- علوم البيانات والذكاء الاصطناعي - م.حسام حوراني : https://www.youtube.com/@hussamhourani2633/playlists

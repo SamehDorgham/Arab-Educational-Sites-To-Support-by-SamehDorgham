@@ -124,6 +124,10 @@
  #### https://www.youtube.com/@zanalytics4dataanalysis/playlists
 #### 12- نادي تحليل البيانات - DA Club - م.أحمد عماد صالح :
  #### https://www.youtube.com/@datasclub/playlists
+#### 13- علوم البيانات وتعلم الآلة - م.يوسف حسني :
+ #### https://www.youtube.com/@YoussefHosni95/playlists
+
+
 
 
 

@@ -4,7 +4,7 @@
 ![مواقع تعليمية عربية يُرجي دعمها - سامح درغام](https://github.com/user-attachments/assets/d8b1800f-90d5-4d31-be37-47ea864bc752)
 
 
-#### فيديو تعريفي - يوتيوب : 
+#### فيديو تعريفي بالمشروع - يوتيوب : 
 #### https://www.youtube.com/watch?v=CxcNsjcaP18
 
 #### تحميل الملف ... Download PDF File :

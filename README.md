@@ -169,10 +169,10 @@
 
 ### [8] كل ما يخص قواعد البيانات SQL & No SQL : Database
 
- #### ككل ما يخص قواعد البيانات SQL & No SQL : Database
+ #### كل ما يخص قواعد البيانات SQL & No SQL : Database
  
-##### ككل ما يخص قواعد البيانات SQL & No SQL : Database ... د.عمرو الحلو : 
-##### https://www.youtube.com/@TechVault_/playlists
+#### 1- كل ما يخص قواعد البيانات SQL & No SQL : Database ... د.عمرو الحلو : 
+#### https://www.youtube.com/@TechVault_/playlists
 
 
 

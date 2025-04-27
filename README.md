@@ -177,7 +177,7 @@
  #### 2- قواعد البيانات سيكول سيرفر - SQL Server ITI - بشمهندس رامي : 
  #### https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_
 
- #### 3- سيكول سيرغر للمبتدأين - MS SQL Server For Beginners - د.محمد الدسوقي :
+ #### 3- سيكول سيرفر للمبتدأين - MS SQL Server For Beginners - د.محمد الدسوقي :
  #### https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE
 
  #### 4- سيكول سيرفر - MS. SQL Server - م.عصام عبد النبي :

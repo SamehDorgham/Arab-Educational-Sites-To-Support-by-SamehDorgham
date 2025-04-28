@@ -136,7 +136,7 @@
 
 #### 15- علم وتحليل البيانات - م.محمد العسال :
 #### https://www.youtube.com/@mohamedalassaal/playlists
-#### 16- تعلم الآلة والذكاء الصطناعي - م.أبوبكر سليمان :
+#### 16- برمجة - تعلم الآلة والذكاء الصطناعي - م.أبوبكر سليمان :
 #### https://www.youtube.com/@bakrianoo/playlists
 
 

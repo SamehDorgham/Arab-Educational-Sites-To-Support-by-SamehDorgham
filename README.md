@@ -131,13 +131,14 @@
 #### 13- علوم البيانات وتعلم الآلة - م.يوسف حسني :
  #### https://www.youtube.com/@YoussefHosni95/playlists
  #### 14- علم وتحليل البيانات - م.أحمد علي :
-
 #### https://www.youtube.com/@ahmedali-friendlyanalysis7283
-
 #### 15- علم وتحليل البيانات - م.محمد العسال :
 #### https://www.youtube.com/@mohamedalassaal/playlists
 #### 16- برمجة - تعلم الآلة والذكاء الصطناعي - م.أبوبكر سليمان :
 #### https://www.youtube.com/@bakrianoo/playlists
+
+#### 17- برمجة - الذكاء الاصطناعي - قواعد البيانات
+#### https://www.youtube.com/@AdelSabour/playlists
 
 
 

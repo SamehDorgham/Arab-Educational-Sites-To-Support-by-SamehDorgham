@@ -139,14 +139,17 @@
  #### https://www.youtube.com/@datasclub/playlists
 #### 13- علوم البيانات وتعلم الآلة - م.يوسف حسني :
  #### https://www.youtube.com/@YoussefHosni95/playlists
- #### 14- علم وتحليل البيانات - م.أحمد علي :
+
+#### 14- قناة داتا ساينس بالعربي .. Data Science - م.أحمد سالم أبو غالي 
+#### https://www.youtube.com/@ahmedaboghaly2010
+ #### 15- علم وتحليل البيانات - م.أحمد علي :
 #### https://www.youtube.com/@ahmedali-friendlyanalysis7283
-#### 15- علم وتحليل البيانات - م.محمد العسال :
+#### 16- علم وتحليل البيانات - م.محمد العسال :
 #### https://www.youtube.com/@mohamedalassaal/playlists
-#### 16- برمجة - تعلم الآلة والذكاء الصطناعي - م.أبوبكر سليمان :
+#### 17- برمجة - تعلم الآلة والذكاء الصطناعي - م.أبوبكر سليمان :
 #### https://www.youtube.com/@bakrianoo/playlists
 
-#### 17- برمجة - الذكاء الاصطناعي - قواعد البيانات - د.عادل صبور
+#### 18- برمجة - الذكاء الاصطناعي - قواعد البيانات - د.عادل صبور
 #### https://www.youtube.com/@AdelSabour/playlists
 
 

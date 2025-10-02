@@ -133,23 +133,26 @@
 #### 10- برمجة - تعلم الآلة والتعلم العميق - رؤية الحاسوب - د.مصطفي سعد إبراهيم :
  #### Arabic Competitive Programming  : 
  #### https://www.youtube.com/@ArabicCompetitiveProgramming
-#### 11- م.وليد محمد - ZAnalytics :
+
+ #### 11- تعلم الألة والتعلم العميق والذكاء الاصطناعي + شرح الرياضة والاحصاء المرتبط بهم - د.محمود عبد الحي عيد
+ #### https://www.youtube.com/@mahmoudabdellahi/playlists
+#### 12- م.وليد محمد - ZAnalytics :
  #### https://www.youtube.com/@zanalytics4dataanalysis/playlists
-#### 12- نادي تحليل البيانات - DA Club - م.أحمد عماد صالح :
+#### 13- نادي تحليل البيانات - DA Club - م.أحمد عماد صالح :
  #### https://www.youtube.com/@datasclub/playlists
-#### 13- علوم البيانات وتعلم الآلة - م.يوسف حسني :
+#### 14- علوم البيانات وتعلم الآلة - م.يوسف حسني :
  #### https://www.youtube.com/@YoussefHosni95/playlists
 
-#### 14- قناة داتا ساينس بالعربي .. Data Science - م.أحمد سالم أبو غالي 
+#### 15- قناة داتا ساينس بالعربي .. Data Science - م.أحمد سالم أبو غالي 
 #### https://www.youtube.com/@ahmedaboghaly2010
- #### 15- علم وتحليل البيانات - م.أحمد علي :
+ #### 16- علم وتحليل البيانات - م.أحمد علي :
 #### https://www.youtube.com/@ahmedali-friendlyanalysis7283
-#### 16- علم وتحليل البيانات - م.محمد العسال :
+#### 17- علم وتحليل البيانات - م.محمد العسال :
 #### https://www.youtube.com/@mohamedalassaal/playlists
-#### 17- برمجة - تعلم الآلة والذكاء الصطناعي - م.أبوبكر سليمان :
+#### 18- برمجة - تعلم الآلة والذكاء الصطناعي - م.أبوبكر سليمان :
 #### https://www.youtube.com/@bakrianoo/playlists
 
-#### 18- برمجة - الذكاء الاصطناعي - قواعد البيانات - د.عادل صبور
+#### 19- برمجة - الذكاء الاصطناعي - قواعد البيانات - د.عادل صبور
 #### https://www.youtube.com/@AdelSabour/playlists
 
 

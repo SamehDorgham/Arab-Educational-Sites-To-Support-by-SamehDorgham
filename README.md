@@ -142,10 +142,8 @@
  #### https://www.youtube.com/@datasclub/playlists
 #### 14- علوم البيانات وتعلم الآلة - م.يوسف حسني :
  #### https://www.youtube.com/@YoussefHosni95/playlists
-
 #### 15- قناة داتا ساينس بالعربي .. Data Science - م.أحمد سالم أبو غالي 
 #### https://www.youtube.com/@ahmedaboghaly2010
-
 #### 16- قناة علم البيانات وتعليم الآلة والتعلم العميق والذكاء الاصطناعي - د.دينا جرجس
 #### https://www.youtube.com/@ai-pro7967/playlists
 #### 17- قناة علم وتحليل البيانات ... م.أحمد أبو الخير - قناة حديد السفينة

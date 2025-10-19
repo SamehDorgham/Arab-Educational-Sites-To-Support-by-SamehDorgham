@@ -154,10 +154,10 @@
 #### https://www.youtube.com/@mohamedalassaal/playlists
 #### 20- برمجة - تعلم الآلة والذكاء الصطناعي - م.أبوبكر سليمان :
 #### https://www.youtube.com/@bakrianoo/playlists
-
 #### 21- تعلم الآلة والذكاء الاصطناعي والأتمتة - د.محمد الشامي | AI Plus
 #### https://www.youtube.com/@AIPlus_ME
-
+#### قناة علم ةتحليل البيانات - م.آلاء عصام
+#### https://www.youtube.com/@alaaessam6189
 #### 22- برمجة - الذكاء الاصطناعي - قواعد البيانات - د.عادل صبور
 #### https://www.youtube.com/@AdelSabour/playlists
 

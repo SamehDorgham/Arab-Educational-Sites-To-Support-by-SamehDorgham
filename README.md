@@ -156,7 +156,7 @@
 #### https://www.youtube.com/@bakrianoo/playlists
 #### 21- تعلم الآلة والذكاء الاصطناعي والأتمتة - د.محمد الشامي | AI Plus
 #### https://www.youtube.com/@AIPlus_ME
-#### 22- قناة علم ةتحليل البيانات - م.آلاء عصام
+#### 22- قناة علم وتحليل البيانات - م.آلاء عصام
 #### https://www.youtube.com/@alaaessam6189
 #### 23- برمجة - الذكاء الاصطناعي - قواعد البيانات - د.عادل صبور
 #### https://www.youtube.com/@AdelSabour/playlists

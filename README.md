@@ -230,7 +230,62 @@
 -------------------------------------------------------------------------------------------------------
 
 
-### [10] تعلم اللغة الإنجليزية من الصفر للإحتراف - ZAmericanEnglish
+
+### [10] كل ما يخص الأتمتة والأتمتة بالذكاء الإصطناعي
+
+#### تعلم الأتمته بالذكاء الاصطناعي N8N & Automation
+
+#### 1- لأتمتة بالذكاء الاصطناعي + N8N ... د.محمد الشامي
+
+#### احترف Agentic AI Engineering باستخدام #n8n (بدون برمجة)
+
+#### https://www.youtube.com/playlist?list=PLZ42ZUInDWC79Bw1K_tYQhUPfFRV7fy8v
+
+
+#### 2- N8N - N8N with Karim ... كريم نبيل
+
+#### https://www.youtube.com/playlist?list=PLLHIYYlcgk6KN58UnPm8q1btNHLDJlYto
+
+#### 3- N8N - م.أحمد رمضان
+
+#### https://lnkd.in/dU72d7F4
+
+#### 4- N8N - لؤي أبوشطيحة
+
+#### https://lnkd.in/dCX6zmWM
+
+#### 5- N8N - إبراهيم خليل
+
+#### https://lnkd.in/dv7Zcnr6
+
+#### https://n8nar.com/
+
+#### 6-  N8N - أمير
+
+#### https://lnkd.in/drHhzQVk
+
+#### 7- N8N - حسام الدين مصطفي
+
+#### https://lnkd.in/d8TFg-Xy
+
+#### 8- Build & Sell n8n AI Agents (8+ Hour Course, No Code)
+
+#### N8N in 8 Hours
+
+#### https://lnkd.in/dRAu8cnE
+
+#### 9- N8N FULL COURSE 6 HOURS (Build & Sell AI Automations + Agents)
+
+#### N8N in 6 Hours
+
+#### https://lnkd.in/dJvnfS3h
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+### [11] تعلم اللغة الإنجليزية من الصفر للإحتراف - ZAmericanEnglish
  #### تعلم اللغة الإنجليزية من الصفر للإحتراف - ZAmericanEnglish
  
 
@@ -241,7 +296,7 @@
 
 -------------------------------------------------------------------------------------------------------
 
-### [11] بدائل عربية رائعة يجب دعمها
+### [12] بدائل عربية رائعة يجب دعمها
  #### بدائل عربية رائعة يجب دعمها 
 
  #### 1- منصة قبيلة - { ... qabilah ... } : 

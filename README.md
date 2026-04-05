@@ -268,13 +268,18 @@
 
 #### https://lnkd.in/d8TFg-Xy
 
-#### 8- Build & Sell n8n AI Agents (8+ Hour Course, No Code)
+#### 8- كورس n8n كامل بالعربي | أتمتة الأعمال والذكاء الاصطناعي - م.محمد تحسين
+
+#### https://www.youtube.com/playlist?list=PLQc5NCWN0ZtQGDVFzTuOwDWfGu94azSQk
+
+
+#### 9- Build & Sell n8n AI Agents (8+ Hour Course, No Code)
 
 #### N8N in 8 Hours
 
 #### https://lnkd.in/dRAu8cnE
 
-#### 9- N8N FULL COURSE 6 HOURS (Build & Sell AI Automations + Agents)
+#### 10- N8N FULL COURSE 6 HOURS (Build & Sell AI Automations + Agents)
 
 #### N8N in 6 Hours
 
